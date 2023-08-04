@@ -26,11 +26,12 @@
    ![project3](https://github.com/Petersite/Project-excel/assets/140444150/8443618e-9100-4524-af0c-2ae3c19e5bc7)
     A bar chart representing the total sales in the year 2017 accrosss the categories in 2017
    
-    ![project4](https://github.com/Petersite/Project-excel/assets/140444150/7d14c8f5-d02b-4c9f-baa3-d1f57603bcab)
-     The total profits accross all the segments from 2014, the consumer segement generated the highest values.
+   ![project4](https://github.com/Petersite/Project-excel/assets/140444150/82433ba1-cb4f-4275-b433-3f6283bf6d28)
+The total profits accross all the segments from 2014, the consumer segement generated the highest values
+     
     
-    ![project5](https://github.com/Petersite/Project-excel/assets/140444150/7c450d38-4d46-46b9-b01e-399ac058aeca)
-     The total sales accross each segments in the year 2017.
+   ![project5](https://github.com/Petersite/Project-excel/assets/140444150/c853665a-41d8-476a-acaf-d369bda25b0a)
+  The total sales accross each segments in the year 2017
 
   # Analysis and Key findings
   The decline in sales category is Home Office, 
