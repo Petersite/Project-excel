@@ -1,2 +1,2 @@
-# Project-excel
+# Project-SuperStore
 EXCEL PROJECT ON BUSINESS ANALYSIS
