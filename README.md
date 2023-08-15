@@ -48,7 +48,7 @@ The total profits accross all the segments from 2014, the consumer segement gene
   ![table](https://github.com/Petersite/Project-excel/assets/140444150/3bb7b434-9a4e-4991-8f05-283cbfe16e75)
 
 
-  # Reommendations
+  # Recommendations
   Provide additional training to the sales team to improve customer engagement, product knowledge, and sales techniques. Implement incentive programs to motivate 
   sales representatives and reward them for achieving targets and numbers.
   Foster collaboration between the marketing and sales teams to align strategies and goals. Encourage open communication and information sharing to ensure a cohesive 
