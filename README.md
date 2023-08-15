@@ -1,3 +1,4 @@
+
 # PROJECT ANALYSIS
 # BUSINESS SALES PERFORMANCE OF 2017
    USA SUPERSTORE
@@ -9,6 +10,7 @@
   The purpose of this report is to analyze the sales performance of our company over the past year to gain insights into key trends, identify growth opportunities, and 
   make data-driven decisions to improve overall sales and profitability in the new year.The dataset used for this analysis includes sales data for the entire company 
   for the past year, spanning from January 1st to December 31st.The sales data was collected from our company's central database, which records all sales.
+  ![questions ](https://github.com/Petersite/Project-excel/assets/140444150/e7d86175-96ae-4c08-9445-503b5bac04e8)
   # Methodology
   Imputing missing values the dates, the serial numbers, effective table renages nd names in my data cleaning processes. the use of SUMIFS operation to get the date 
   range of the year, the use of VLOOKUP to get the highest and lowest sale values in the categories. the use of AVERAGE to the the average sale values across the 
