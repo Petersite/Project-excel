@@ -4,7 +4,7 @@
    STATES SUPERSTORE
    # SUMMARY
   The Process Improvement Project focuses on profits numbers increament operations. By analyzing current processes, identifying least performing , and implementing best 
-  performing , we aim to deduce the performances on the preveious year and insights. The project's key deliverables include process Data charts and key performances 
+  performing , I aim to deduce the performances on the preveious year and insights. The project's key deliverables include process Data charts and key performances 
   figures.
   # INTRODUTION
   The purpose of this report is to analyze the sales performance of our company over the past year to gain insights into key trends, identify growth opportunities, and 
