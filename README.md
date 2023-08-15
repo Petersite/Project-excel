@@ -38,7 +38,7 @@ The total profits accross all the segments from 2014, the consumer segement gene
   the Highest in sales category is Technology, 
   the city with the highest sales is Jacksonville, 
   the city with the lowest sale is Houston.
-  KPI
+  # KPI
   Total profit : $286,397.02
   Total Average : $2,297,200.86
   Highest sale recorded: $2,2638
