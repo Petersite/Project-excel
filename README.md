@@ -29,7 +29,7 @@
     A bar chart representing the total sales in the year 2017 accrosss the categories in 2017
    
    ![project4](https://github.com/Petersite/Project-excel/assets/140444150/82433ba1-cb4f-4275-b433-3f6283bf6d28)
-The total profits accross all the segments from 2014, the consumer segement generated the highest values
+The total profits accross all the segments from 2017, the consumer segement generated the highest values
      
     
    ![project5](https://github.com/Petersite/Project-excel/assets/140444150/c853665a-41d8-476a-acaf-d369bda25b0a)
