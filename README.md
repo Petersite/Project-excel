@@ -1,7 +1,7 @@
 
 # PROJECT ANALYSIS
 # BUSINESS SALES PERFORMANCE OF 2017
-   USA SUPERSTORE
+   STATES SUPERSTORE
    # SUMMARY
   The Process Improvement Project focuses on profits numbers increament operations. By analyzing current processes, identifying least performing , and implementing best 
   performing , we aim to deduce the performances on the preveious year and insights. The project's key deliverables include process Data charts and key performances 
